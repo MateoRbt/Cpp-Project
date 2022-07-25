@@ -1,4 +1,4 @@
-# Cpp-ProjectCancel changes
+# Cpp-Project
 A dungeon crawler game made with cpp and ncurses usage.
 
 This particular game is part of the final examination of the Object Oriented Programming course
